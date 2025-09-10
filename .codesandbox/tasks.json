@@ -6,7 +6,7 @@
   "tasks": {
     "Start": {
       "name": "Start",
-      "command": "bun --hot run http.ts",
+      "command": "bun run --bun dev",
       "runAtStart": true,
       "preview": {
         "port": 3000
